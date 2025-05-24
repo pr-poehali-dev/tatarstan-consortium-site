@@ -101,10 +101,11 @@ const Index = () => {
               Кто мы?
             </h2>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto">
-              Мы — объединение лидеров технологий: ИТР СИНЕРГИЯ Групп
-              (интеграция в Татарстане), ГК ВЕГА (системы безопасности и
-              видеоаналитика), Бифорком Технолоджис (IT-инфраструктура). Вместе
-              мы создаем решения для цифровизации и автоматизации в Татарстане.
+              Мы — объединение лидеров технологий: Интеграция Технологических
+              Решений СИНЕРГИЯ Групп (интеграция в Татарстане), ГК ВЕГА (системы
+              безопасности и видеоаналитика), Бифорком Технолоджис
+              (IT-инфраструктура). Вместе мы создаем решения для цифровизации и
+              автоматизации в Татарстане.
             </p>
           </div>
 
@@ -114,7 +115,9 @@ const Index = () => {
                 <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Icon name="Settings" size={32} className="text-primary" />
                 </div>
-                <CardTitle className="text-xl">ИТР СИНЕРГИЯ Групп</CardTitle>
+                <CardTitle className="text-xl">
+                  Интеграция Технологических Решений СИНЕРГИЯ Групп
+                </CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription className="text-gray-600">
